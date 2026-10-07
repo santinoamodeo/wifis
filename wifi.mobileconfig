@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>AutoJoin</key>
+            <true/>
+            <key>EncryptionType</key>
+            <string>WPA</string>
+            <key>HIDDEN_NETWORK</key>
+            <false/>
+            <key>SSID_STR</key>
+            <string>WiFi-Y-A</string>
+            <key>Password</key>
+            <string>J#pGLf0CcF</string>
+            <key>PayloadType</key>
+            <string>com.apple.wifi.managed</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>PayloadIdentifier</key>
+            <string>com.red.wifi.config</string>
+            <key>PayloadUUID</key>
+            <string>A1B2C3D4-E5F6-7890-ABCD-EF1234567890</string>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Conexión Wi-Fi WiFi-Y-A</string>
+    <key>PayloadIdentifier</key>
+    <string>com.red.wifi.profile</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>98765432-10AB-CDEF-0123-456789ABCDEF</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
